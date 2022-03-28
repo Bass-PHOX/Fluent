@@ -1,5 +1,7 @@
 # Fluent
 
+> I do not own any of the assets shared. All credit go to Gibbu and their contributors. The information shown is a carbon copy of the original theme.
+
 Brings the look of Windows 11 to Discord.
 
 ![Server Chat](https://i.imgur.com/WasgeFy.png)
